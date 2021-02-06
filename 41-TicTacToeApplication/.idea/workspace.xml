@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1cc28ebd-9de1-4c13-80d3-fea788e2aa64" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="41-TicTacToeApplication" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1feYLQVRQIivdHDe4AB6R8SlSTM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.TicTacToeApplication" />
+      <module name="41-TicTacToeApplication" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1cc28ebd-9de1-4c13-80d3-fea788e2aa64" name="Default Changelist" comment="" />
+      <created>1596579968798</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596579968798</updated>
+      <workItem from="1597775999263" duration="5482000" />
+      <workItem from="1597948250608" duration="1835000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="526" y="253" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1597776158636">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="526" y="253" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.728/0.-768.1360.728@0.0.1366.728" timestamp="1597776158636" />
+    <state width="1323" height="68" key="GridCell.Tab.0.bottom" timestamp="1597812320366">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="68" key="GridCell.Tab.0.bottom/0.0.1366.728/0.-768.1360.728@0.0.1366.728" timestamp="1597812320366" />
+    <state width="1323" height="68" key="GridCell.Tab.0.center" timestamp="1597812320365">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="68" key="GridCell.Tab.0.center/0.0.1366.728/0.-768.1360.728@0.0.1366.728" timestamp="1597812320365" />
+    <state width="1323" height="68" key="GridCell.Tab.0.left" timestamp="1597812320365">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="68" key="GridCell.Tab.0.left/0.0.1366.728/0.-768.1360.728@0.0.1366.728" timestamp="1597812320365" />
+    <state width="1323" height="68" key="GridCell.Tab.0.right" timestamp="1597812320365">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="68" key="GridCell.Tab.0.right/0.0.1366.728/0.-768.1360.728@0.0.1366.728" timestamp="1597812320365" />
+    <state x="359" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1597948413384">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="359" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728/0.-768.1360.728@0.0.1366.728" timestamp="1597948413384" />
+    <state x="65" y="0" key="new project wizard" timestamp="1597949961755">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="0" key="new project wizard/0.0.1366.728/0.-768.1360.728@0.0.1366.728" timestamp="1597949961755" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/AI.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="109" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/AI.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="110" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/AI.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="114" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/AI.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="115" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/AI.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="116" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/AI.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="117" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/AI.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="118" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/company/AI.java</url>
+          <line>7</line>
+          <properties class="com.company.AI" method="pickSpot">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="108" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
